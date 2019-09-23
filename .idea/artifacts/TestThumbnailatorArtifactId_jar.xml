@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TestThumbnailatorArtifactId:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestThumbnailatorArtifactId_jar</output-path>
+    <root id="archive" name="TestThumbnailatorArtifactId.jar">
+      <element id="module-output" name="TestThumbnailatorArtifactId" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/coobird/thumbnailator/0.4.8/thumbnailator-0.4.8.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: net.coobird:thumbnailator:0.4.8" />
+    </root>
+  </artifact>
+</component>
